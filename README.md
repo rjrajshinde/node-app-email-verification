@@ -11,6 +11,9 @@ the link to reset the password.
 NPM Package
 
 for authentication - express-session
+
 for otp generation - otp-generator
+
 for password encryption - bcrypt
+
 for create reset token - rand-token
